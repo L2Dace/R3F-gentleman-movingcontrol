@@ -6,5 +6,4 @@ yarn
 yarn dev
 ```
 
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+![image](https://github.com/L2Dace/R3F-gentleman-movingcontrol/assets/90228749/83c9b4b5-fc20-481c-8da2-8bf950748d24)
